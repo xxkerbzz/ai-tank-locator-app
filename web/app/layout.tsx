@@ -2,7 +2,7 @@ import './globals.css'
 import type { Metadata, Viewport } from 'next'
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://web-lid3egsog-kerbzs-projects-9972489a.vercel.app'),
+  metadataBase: new URL('https://ai-tank-locator-app.vercel.app'),
   title: 'SepticSleuth - AI-Powered Septic Tank Locator for Service Providers',
   description: 'Find hidden septic tanks in minutes, not hours. AI-powered location service using satellite imagery, property records, and machine learning. Transform your septic service operations today.',
   keywords: ['septic tank locator', 'septic service', 'AI septic finder', 'satellite imagery', 'property records', 'GPS coordinates', 'septic maintenance'],
@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'SepticSleuth - Find Hidden Septic Tanks in Minutes',
     description: 'AI-powered location service for septic service providers. Get GPS coordinates, depth estimates, and photos instantly.',
-    url: 'https://web-lid3egsog-kerbzs-projects-9972489a.vercel.app',
+    url: 'https://ai-tank-locator-app.vercel.app',
     siteName: 'SepticSleuth',
     type: 'website',
     locale: 'en_US',
