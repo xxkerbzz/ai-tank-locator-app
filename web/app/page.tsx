@@ -1,3 +1,4 @@
+import Navigation from '@/components/Navigation'
 import Hero from '@/components/Hero'
 import Features from '@/components/Features'
 import HowItWorks from '@/components/HowItWorks'
@@ -34,6 +35,7 @@ export default function Home() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
+      <Navigation />
       <Hero />
       <Features />
       <HowItWorks />

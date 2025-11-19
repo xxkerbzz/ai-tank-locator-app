@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://web-lid3egsog-kerbzs-projects-9972489a.vercel.app/sitemap.xml
+Sitemap: https://ai-tank-locator-app.vercel.app/sitemap.xml
