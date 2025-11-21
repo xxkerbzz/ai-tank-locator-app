@@ -36,10 +36,7 @@ export const metadata: Metadata = {
     },
   },
   verification: {
-    // Add your verification codes when available:
-    // google: 'your-google-verification-code',
-    // yandex: 'your-yandex-verification-code',
-    // bing: 'your-bing-verification-code',
+    google: 'iMF6pL1XsIB1fUdWS9JEJrCfYhmFdEKN-gujj1hR2Ck',
   },
 }
 
